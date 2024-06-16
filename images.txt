@@ -1,2 +1,3 @@
 nginx
 portainer/portainer
+portainer/portainer-ce
