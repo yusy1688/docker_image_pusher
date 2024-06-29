@@ -2,3 +2,4 @@ nginx
 portainer/portainer
 portainer/portainer-ce
 jc21/nginx-proxy-manager
+jc21/mariadb-aria
