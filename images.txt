@@ -1,3 +1,4 @@
 nginx
 portainer/portainer
 portainer/portainer-ce
+jc21/nginx-proxy-manager
